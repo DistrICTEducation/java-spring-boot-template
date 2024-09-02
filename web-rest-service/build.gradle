@@ -16,5 +16,5 @@ dependencies {
 }
 
 bootJar {
-    archiveFileName = 'java-spring-boot-example.jar'
+    archiveFileName = 'java-spring-boot-template.jar'
 }
