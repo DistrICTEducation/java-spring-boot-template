@@ -1,0 +1,4 @@
+rootProject.name = 'java-spring-boot-example'
+include 'web-rest-service'
+include 'api'
+include 'model'
